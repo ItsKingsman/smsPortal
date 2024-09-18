@@ -1,0 +1,111 @@
+{
+  "library": [
+    {
+      "libName": "Ganesh Chaturthi",
+      "id": "1"
+    },
+    {
+      "libName": "Holii",
+      "id": "2"
+    },
+    {
+      "libName": "Diwali",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "libName": "RamNavmi"
+    },
+    {
+      "id": "e19b",
+      "libName": "Ramdan"
+    }
+  ],
+  "group": [
+    {
+      "id": "767e",
+      "groupName": "Friends"
+    },
+    {
+      "id": "4948",
+      "groupName": "Family"
+    },
+    {
+      "id": "36e1",
+      "groupName": "College Friends"
+    },
+    {
+      "id": "3416",
+      "groupName": "Work colleague"
+    }
+  ],
+  "contact": [
+    {
+      "id": "ad1c",
+      "groupName": "767e",
+      "PersonNumber": "9967690655",
+      "PersonName": "Soumya Singh",
+      "PersonEmail": "Soumya@gmail.com"
+    },
+    {
+      "id": "56b9",
+      "groupName": "4948",
+      "PersonNumber": "7896541265",
+      "PersonName": "Saurabh shah",
+      "PersonEmail": "saurabhchaurasiabbf@gmail.com"
+    },
+    {
+      "id": "82ce",
+      "groupName": "36e1",
+      "PersonNumber": "9596872365",
+      "PersonName": "Kashish Kaushik",
+      "PersonEmail": "kav@gmail.com"
+    },
+    {
+      "id": "a07f",
+      "groupName": "36e1",
+      "PersonNumber": "6654893569",
+      "PersonName": "Rahul Singh",
+      "PersonEmail": "rah@gmail.com"
+    },
+    {
+      "id": "55d8",
+      "groupName": "3416",
+      "PersonNumber": "8854695264",
+      "PersonName": "Rajan",
+      "PersonEmail": "raju@gmail.com"
+    }
+  ],
+  "message": [
+    {
+      "id": "1",
+      "libid": "1",
+      "message": "Happy Ganesh chaturthi!"
+    },
+    {
+      "id": "2",
+      "libid": "2",
+      "message": "Happy Holi!"
+    },
+    {
+      "id": "3",
+      "libid": "3",
+      "message": "Happy deepavali!"
+    },
+    {
+      "id": "3",
+      "libid": "3",
+      "message": "Diwali ki subhkamnaye!"
+    },
+    {
+      "id": "4",
+      "libid": "4",
+      "message": "Happy Ram Navmi!"
+    },
+    {
+      "id": "a1df",
+      "libid": "e19b",
+      "message": "Ramzan mubarak"
+    }
+  ]
+}
